@@ -7,20 +7,24 @@ This repository contains a collection of Python-based projects showcasing differ
 
 ## 📂 Projects Overview  
 
-### 1. **[Project Name]**  
-   - **Description**: Brief overview of the project.  
+### 1. **Number Guessing Game 🎯**  
+   - **Description**:  
+     A simple game where the player has 7 chances to guess a randomly generated number between 1 and 100. The program provides hints such as "Too High" or "Too Low" to guide the player.  
    - **Key Features**:  
-     - Feature 1  
-     - Feature 2  
-   - **How to Run**:  
-     ```bash
-     python project_name.py
-     ```
+     - Random number generation.  
+     - User input handling.  
+     - Feedback for each guess.  
+     - Limited attempts with game-over conditions.  
 ---
 
 ## 🛠️ Skills & Tools  
 
-- **Programming Language**: Python   
+- **Programming Language**: Python  
+- **Concepts Covered**:  
+  - Random number generation (`random` module)  
+  - Conditional logic  
+  - Loops for iterative chances  
+
 
 ---
 
