@@ -14,7 +14,16 @@ This repository contains a collection of Python-based projects showcasing differ
      - Random number generation.  
      - User input handling.  
      - Feedback for each guess.  
-     - Limited attempts with game-over conditions.  
+     - Limited attempts with game-over conditions.
+    
+### 2. **Word Guessing Game 📝**  
+   - **Description**:  
+     A fun game where the player tries to guess a randomly chosen word by guessing individual characters. The game gives 12 chances to uncover the word, and feedback is provided for each guess.  
+   - **Key Features**:  
+     - Random word selection from a predefined list.  
+     - Real-time feedback showing guessed and unguessed characters.  
+     - Countdown of remaining attempts with game-over conditions.  
+     - Victory message upon successfully guessing the word.  
 ---
 
 ## 🛠️ Skills & Tools  
