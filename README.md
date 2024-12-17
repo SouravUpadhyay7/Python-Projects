@@ -23,7 +23,22 @@ This repository contains a collection of Python-based projects showcasing differ
      - Random word selection from a predefined list.  
      - Real-time feedback showing guessed and unguessed characters.  
      - Countdown of remaining attempts with game-over conditions.  
-     - Victory message upon successfully guessing the word.  
+     - Victory message upon successfully guessing the word.
+    
+<section id="hangman-game">
+  <h2>📂 Projects Overview</h2>
+  <h3>3. <strong>Hangman Game 🪓</strong></h3>
+  <p><strong>Description:</strong></p>
+  <p>A classic word-guessing game where the player attempts to guess a hidden word, one letter at a time, within a limited number of attempts. Each incorrect guess brings the player closer to "hanging" the stick figure!</p>
+  <p><strong>Key Features:</strong></p>
+  <ul>
+    <li>Random word selection from a list of predefined words.</li>
+    <li>Real-time display of correctly guessed letters and placeholders for missing ones.</li>
+    <li>Feedback for incorrect guesses and a countdown of remaining attempts.</li>
+    <li>Win or lose conditions displayed at the end of the game.</li>
+  </ul>
+</section>
+
 ---
 
 ## 🛠️ Skills & Tools  
