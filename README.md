@@ -35,6 +35,25 @@ This repository contains a collection of Python-based projects showcasing differ
      - Win or lose conditions displayed at the end of the game.  
 
 
+
+### 4. **21, Bagram, or Twenty Plus One Game 🎲**  
+   - **Description**:  
+     A strategic counting game where players count up to 21, and the player who calls "21" is eliminated. The game can be played with any number of players and offers room for various rule modifications.  
+
+   - **Implementation**:  
+     This version is a simple Python-based implementation of the game, designed for a match between a player and the computer.  
+
+   - **Key Features**:  
+     - The player can choose to start first or second.  
+     - The list of numbers is displayed before the player's turn for convenience.  
+     - Ensures fairness: If consecutive numbers are not provided as input, the player is disqualified automatically.  
+     - Winning and losing conditions:  
+       - The player loses if they are forced to call "21."  
+       - The player wins if the computer is forced to call "21."  
+
+   - **Game Variations**:  
+     The game can have numerous rule variations, making it versatile and enjoyable in different settings.  
+
 ---
 
 ## 🛠️ Skills & Tools  
