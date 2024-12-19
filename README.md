@@ -52,7 +52,36 @@ This repository contains a collection of Python-based projects showcasing differ
        - The player wins if the computer is forced to call "21."  
 
    - **Game Variations**:  
-     The game can have numerous rule variations, making it versatile and enjoyable in different settings.  
+     The game can have numerous rule variations, making it versatile and enjoyable in different settings.
+
+
+     ## 📂 Projects Overview  
+
+### **5 - Digit Number Guessing Game 🔢**  
+   - **Description**:  
+     A fun and interactive game where the player attempts to guess a randomly generated 4-digit number. The game provides feedback on the number of digits correctly guessed and their positions, helping the player progress toward the correct answer.  
+
+   - **Key Features**:  
+     - Random generation of a 4-digit number for every game session.  
+     - Feedback on the number of correct digits guessed.  
+     - Unlimited attempts until the correct number is guessed.  
+     - Keeps track of the number of attempts made by the player.  
+
+   - **How to Play**:  
+     1. The computer generates a random 4-digit number.  
+     2. The player inputs a guess.  
+     3. The game provides feedback:
+        - Number of correctly guessed digits in their correct positions.  
+        - Message if no digits match.  
+     4. The game continues until the player guesses the correct number.  
+
+   - **Winning Conditions**:  
+     - The player wins by guessing the correct 4-digit number.  
+     - The game displays the total number of attempts taken.  
+
+   - **Languages/Technologies Used**:  
+     - Python  
+
 
 ---
 
